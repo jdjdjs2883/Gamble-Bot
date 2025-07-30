@@ -5,9 +5,9 @@ const config = {
     giphyAPI: "ZD6DSPZaxZ4lmEJIOBrtChEs22QSJDzi",
 
     // Bot Perms and Stuff
-    ownerID: '147866541088571393',
-    adminRole: '902559028616519691',
-    supporterRole: '976099528342110228',
+    ownerID: '1192119827813376050',
+    adminRole: '',
+    supporterRole: '',
 
     permLevels: [{
             level: 0,
